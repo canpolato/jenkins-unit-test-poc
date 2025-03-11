@@ -1,3 +1,3 @@
 library 'cnplt-shared-library'
 
-mycall()
+mycall.call()
